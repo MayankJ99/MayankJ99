@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Mythbusters: an MLH Fellowship Project**
 
-- 🌱 I’m currently learning **React.js, ETL pipelines**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://mayanksjha.com](https://mayanksjha.com)
 
