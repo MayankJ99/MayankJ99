@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayank</h1>
 <h3 align="center">I'm a software engineer from India. I recently graduated from the University at Buffalo in Buffalo, New York.</h3>
 
-- 🔭 I’m currently working on **Mythbusters: an MLH Fellowship Project**
+- 🔭 I’m currently working as a **Senior Associate Full Stack Engineer** @ **Macquarie Group**
 
 - 🌱 I’m currently learning **Next.js**
 
